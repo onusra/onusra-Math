@@ -22,6 +22,7 @@ public class MathClass {
     public static void main(String [] args){
         
     }
+    
     public double mathPow(double a, double b){
         return Math.pow(a,b);
     }
